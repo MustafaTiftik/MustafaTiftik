@@ -50,4 +50,6 @@ SmartFurnace is a SaaS platform for designing industrial vacuum furnaces and pla
 
 ---
 
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MustafaTiftik/MustafaTiftik/output/snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustafaTiftik/MustafaTiftik/output/snake-light.svg" /><img alt="Contribution graph" src="https://raw.githubusercontent.com/MustafaTiftik/MustafaTiftik/output/snake-dark.svg" /></picture></p>
+
 <sub>B.Sc. Computer Engineering, Kocaeli University · Kocaeli, Türkiye · [LinkedIn](https://www.linkedin.com/in/mustafatiftik/)</sub>
